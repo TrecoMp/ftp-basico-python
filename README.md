@@ -19,4 +19,4 @@ Cliente
   REMOVER DO SERVIDOR: 
     python cliente.py <ip_servidor> <porta_servidor> <nome do arquivo>
 
-OBS: junto do arquivo servidor.py deve haver um diretório chamado data. Onde ficaram os arquivo salvos no mesmo.
+OBS: junto do arquivo servidor.py deve haver um diretório chamado data. Onde ficaram os arquivo salvos no mesmo. 
