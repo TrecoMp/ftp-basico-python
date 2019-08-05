@@ -9,24 +9,24 @@ Execução:
 
 Servidor
 
-python servidor.py <porta_a_escutar>
+-python servidor.py <porta_a_escutar>
 
 Cliente
 
 LISTAR:
 
-python cliente.py <ip_servidor> <porta_servidor> list
+-python cliente.py <ip_servidor> <porta_servidor> list
 
 BAIXAR:
 
-python cliente.py <ip_servidor> <porta_servidor> <nome do arquivo no servido> <nome do arquivo a ser salvo localmente>
+-python cliente.py <ip_servidor> <porta_servidor> <nome do arquivo no servido> <nome do arquivo a ser salvo localmente>
 
 UPAR:
 
-python cliente.py <ip_servidor> <porta_servidor> <nome do arquivo local> <nome do arquivo no a ser salvo no servidor>
+-python cliente.py <ip_servidor> <porta_servidor> <nome do arquivo local> <nome do arquivo no a ser salvo no servidor>
 
 REMOVER DO SERVIDOR:
 
-python cliente.py <ip_servidor> <porta_servidor> <nome do arquivo>
+-python cliente.py <ip_servidor> <porta_servidor> <nome do arquivo>
 
 OBS: junto do arquivo servidor.py deve haver um diretório chamado data. Onde ficaram os arquivo salvos no mesmo. 
